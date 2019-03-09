@@ -1,5 +1,5 @@
 # EMILY STODDARD
-123-456-7890
+123-456-7890  
 fake.email@example.com
 
 Having started college at age 15, I developed a passion for thinking outside the box and doing the impossible. I am looking for a job that will allow me to utilize both my technical expertise and my love of writing and speaking to solve challenging problems.
